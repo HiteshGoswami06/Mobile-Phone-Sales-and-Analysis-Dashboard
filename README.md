@@ -64,7 +64,7 @@ The primary objective of this project is to model and visualize the complex rela
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Data Visualization Tool:** Power BI / Tableau (or equivalent interactive dashboard canvas)
+* **Data Visualization Tool:** Power BI / DAX
 
 
 * **Data Modeling:** Multi-table relational schemas mapping transactional sales figures, hardware specifications, customer review metrics, and promotional pricing data.
