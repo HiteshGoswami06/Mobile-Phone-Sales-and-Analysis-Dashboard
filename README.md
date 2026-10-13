@@ -1,4 +1,4 @@
-# Mobile Phone Sales and Analysis Dashboard - GitHub README 📱📊
+# Mobile Phone Sales and Analysis Dashboard -  README 📱📊
 
 A comprehensive business intelligence dashboard designed to evaluate mobile phone market dynamics, brand pricing strategies, consumer hardware preferences, and product sales performance. This repository contains the documentation and theoretical layout for analyzing brand-level discounts, customer ratings, hardware specifications (RAM, battery capacity), and overall market trends.
 
